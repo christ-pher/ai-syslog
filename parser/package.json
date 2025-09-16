@@ -1,0 +1,15 @@
+{
+  "name": "parser",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "pocketbase": "^0.26.2"
+  }
+}

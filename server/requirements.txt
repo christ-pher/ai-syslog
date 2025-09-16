@@ -1,0 +1,9 @@
+# No external dependencies required - uses only Python standard library
+# The syslog server is built using:
+# - socketserver (UDP server)
+# - re (regex parsing)
+# - json (structured output)
+# - datetime (timestamp handling)
+# - dataclasses (data structures)
+# - enum (device type enumeration)
+# - urllib.request (PocketBase HTTP API client)
